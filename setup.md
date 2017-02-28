@@ -13,6 +13,7 @@ Install the following google chrome extensions. If you don't already have it, th
 ### Install GitHub Desktop Application
 
 * [https://desktop.github.com/](https://desktop.github.com/)
+* If you don't already have a GitHub account, please make one at [http://github.com/join](http://github.com/join)
 
 ### Install Sublime
 - Install Sublime Text 3
