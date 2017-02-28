@@ -1,7 +1,7 @@
 ## Setup
 
 ### Install Chrome Extentions
-Install the following google chrome extensions.
+Install the following google chrome extensions. If you don't already have it, this will require you to first download the [google chrome browser](https://www.google.com/chrome/).
 
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
