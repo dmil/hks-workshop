@@ -17,7 +17,7 @@ Install the following google chrome extensions. If you don't already have it, th
 
 ### Install Sublime
 - Install Sublime Text 3
-	- If you're on a Mac and have installed [Homebrew](https://brew.sh/) (reccomended), you can install with `brew cask install sublime-text`. Otherwise you can download it from [https://www.sublimetext.com/](https://www.sublimetext.com/).
+	- [https://www.sublimetext.com/](https://www.sublimetext.com/).
 - Install the JSON plugin for sublime text.
 	- Open Sublime Text
 	- Open the Command Palette with <kbd>⌘</kbd>+<kbd> Shift </kbd>+<kbd> P </kbd> (use <kbd>CTRL</kbd>+<kbd> Shift </kbd>+<kbd> P </kbd> on Windows)
