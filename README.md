@@ -7,5 +7,6 @@ link | description
 [setup.md](setup.md) | Setup Steps
 [lesson_1.md](lesson_1.md) | Part 1: Anatomy of a Webpage
 [lesson_2.md](lesson_2.md) | Part 2: Unpacking Websites & Hunting for Data
+[recap.md](recap.md) | Recap lessons
 
 Registration Link: https://www.eventbrite.com/e/digital-tools-for-data-driven-investigation-tickets-32194610948
